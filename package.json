@@ -12,7 +12,8 @@
   "main": "index.js",
   "name": "first_project",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build"
   },
   "version": "1.0.0"
 }
