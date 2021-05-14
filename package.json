@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "first_project",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "version": "1.0.0"
+}
